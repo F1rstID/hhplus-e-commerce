@@ -320,5 +320,6 @@ sequenceDiagram
 - https://github.com/users/F1rstID/projects/3
 
 # ERD
+- https://www.erdcloud.com/d/dkRTT5CHgvjjayzeE
 
 # API Docs
